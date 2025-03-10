@@ -31,7 +31,7 @@
   color: #FFFFFF;
 }
 .es-rc #es-rc-content .es-section-header {
-  font-size: clamp(20px, 12px + 2.606vw, 28px);
+  font-size: clamp(18px, 10px + 2.606vw, 28px);
   font-weight: 900;
 }
 .es-rc #es-rc-content .es-section-header--smaller {
@@ -372,7 +372,7 @@
 .es-rc #es-rc-content .es-cross__single {
   max-width: 200px;
   display: grid;
-  grid-template-rows: 350px 60px 200px 40px;
+  grid-template-rows: 350px 60px 215px 40px;
 }
 .es-rc #es-rc-content .es-cross__single:hover .es-cross__img {
   scale: 1.05;
